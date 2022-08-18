@@ -3616,7 +3616,7 @@ fieldset:disabled .btn {
 }
 
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
-  box-shadow: 0 0 0 0.25rem rgba(78, 102, 248, 0.5);
+  box-shadow: 0 0 0 0.25rem #ed7d31;
 }
 
 .btn-check:checked + .btn-outline-primary,
@@ -3867,7 +3867,7 @@ fieldset:disabled .btn {
 }
 
 .btn-link:hover {
-  color: #3e52c6;
+  color: #FF5722;
   text-decoration: underline;
 }
 
